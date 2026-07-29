@@ -64,7 +64,7 @@ def discord_request(method, url, body=None):
     data = json.dumps(body).encode("utf-8") if body is not None else None
     req = urllib.request.Request(url, data=data, method=method)
     req.add_header("Content-Type", "application/json")
-    req.add_header("User-Agent", "DiscordSyncBot (https://github.com/notnilcn/ggdd, 1.0)")
+    req.add_header("User-Agent", "DiscordSyncBot (https://github.com/Notnilc-N/ggdd, 1.0)")
     while True:
         try:
             with urllib.request.urlopen(req) as resp:
