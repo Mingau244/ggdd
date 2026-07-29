@@ -5,7 +5,6 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "Art",
         "attachments",
         "CLAUDE.md",
         "Game Design Docs",
@@ -15,28 +14,6 @@
         "Resources and dependencies",
         "Technical Design Docs"
       ]
-    },
-    "Art": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "Art style 2D.md",
-        "Art style 3D.md",
-        "Hollow Knight References.md"
-      ]
-    },
-    "Art/Art style 2D.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Art/Art style 3D.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Art/Hollow Knight References.md": {
-      "isPinned": false,
-      "isHidden": false
     },
     "attachments": {
       "isPinned": false,

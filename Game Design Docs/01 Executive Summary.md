@@ -4,7 +4,7 @@ The world is in turmoil because of a bunch of wizards naively tried to implement
 # Demographic
 **Target Audience:** MMORPG players who enjoy difficult skill based games.
 **Game Style:** Bullet-hell rogue-like perma-death base-building mmo.
-**Game Inspirations:** Realm of the Mad God (gameplay), BitCraft Online (gameplay), Pixel Quest (gameplay), Hollow Knight (art style), Hollow Knight: Silksong (art style), t3ssel8r videos (art style), Clash of Clans (gameplay, deferred), Terraria, Borderlands, and Factorio: Space Age (gameplay, deferred). Borderlands specifically for the item enchantment/modifier system (see [[03 Class system, Item system, and Equipment system]]).
+**Game Inspirations:** Realm of the Mad God (core gameplay), Alabaster Dawn (core gameplay), Pixel Quest (core gameplay), BitCraft Online (non-core gameplay), Clash of Clans (non-core gameplay), Factorio: Space Age (non-core gameplay), Hollow Knight (art style), Hollow Knight: Silksong (art style), t3ssel8r videos (art style), Borderlands (item system), and Terraria (idk).
 **Platform:** PC
 # Overview
 ## World building vibes
