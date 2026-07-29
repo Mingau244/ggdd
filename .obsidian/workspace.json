@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/01 Executive Summary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Executive Summary"
+              "title": "README"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overviews",
+                "query": "notnilc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,11 +211,12 @@
   },
   "active": "cc0862031acb2e37",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Game Design Docs/01 Executive Summary.md",
     "Game Design Docs/02 Gameplay.md",
     "Game Design Docs/03 Class system, Item system, and Equipment system.md",
     "Game Design Docs/04 Lore.md",
     "Game Design Docs/05 Biomes.md",
-    "Game Design Docs/01 Executive Summary.md",
     "scripts/discord_sync.py.tmp.70616.fda9d26a137e",
     "scripts/discord_sync.py.tmp.70616.45be1e90cdb6",
     "New folder",
@@ -225,7 +226,6 @@
     "workflows",
     "scripts",
     "discord_sync",
-    "CLAUDE.md",
     "Game Design Docs/CLAUDE.md",
     "Game Design Docs/Classes/ART/gatherer (str) & (art).md",
     "Game Design Docs/Classes/ART/crafter (dex) & (str) & (art).md",
