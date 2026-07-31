@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Design Docs/Workflow (how to add new things)/00 Index & The Build Loop.md",
+                "file": "Old Notes/001 Explaining Game Code/001 (TO BE OVERHAULED) Opening the game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Index & The Build Loop"
+              "title": "001 (TO BE OVERHAULED) Opening the game"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inspirat",
+                "query": "head",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,8 +210,10 @@
       "track-changes:Open CriticMarkup review panel": false
     }
   },
-  "active": "cc0862031acb2e37",
+  "active": "76d8f0015445b633",
   "lastOpenFiles": [
+    "Old Notes/001 Explaining Game Code/001 (TO BE OVERHAULED) Opening the game.md",
+    "Technical Design Docs/Workflow (how to add new things)/00 Index & The Build Loop.md",
     "Technical Design Docs/possible optimisations.md",
     "Game Design Docs/01 Executive Summary.md",
     "Game Design Docs/02 Gameplay.md",
@@ -249,8 +251,6 @@
     "Game Design Docs/Classes/SUP/Tank (str) & (sup).md",
     "Game Design Docs/Classes/SUP/Paladin (wis == str) & (sup ≳ dps).md",
     "Game Design Docs/Classes/SUP/Healer (wis) & (sup).md",
-    "Game Design Docs/Classes/DPS/Wizard (wis) & (dps).md",
-    "Game Design Docs/Classes/DPS/Archer (dex) & (dps).md",
     "Game Design Docs/Classes/Balancing details",
     "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/zflpdhs2u7lg1.jpeg",
     "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_xwfwyccwkz6a1.jpg",
