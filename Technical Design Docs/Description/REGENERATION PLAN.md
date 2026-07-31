@@ -1,11 +1,3 @@
-# REGENERATION PLAN — Technical Design Docs
-
-This file is the **only context** the doc-writing sessions have. Each session gets a prompt like:
-
-> Read `docs/Technical Design Docs/REGENERATION PLAN.md` and write doc NN per its instructions.
-
-Everything needed — conventions, schemas, code to read, ordering — is in this file. Do not assume any prior session's knowledge; do not rely on the docs' previous contents (the files in `Description/` have been wiped and are being rewritten from scratch against the current code).
-
 ## What this project is
 
 A **bullet-hell MMO roguelike**: Godot 4.6 mono C# client (`client/`) + SpacetimeDB Rust server module (`server/spacetimedb/src/`). Repo root is the parent of `docs/`'s parent — all paths below are relative to repo root. The client is **fully compositional** (entity/component architecture modeled on `code_examples/comedot`); the server mirrors that compositionally: one table per concern = a component, ids like `profile_id`/`enemy_id` join a logical entity's rows across tables, and "archetype helpers" bundle the rows of one entity.
