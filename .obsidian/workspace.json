@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/04 Lore.md",
+                "file": "Game Design Docs/01 Executive Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Lore"
+              "title": "01 Executive Summary"
             }
           }
         ]
@@ -198,12 +198,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "0232ad4a834a7c3a",
+  "active": "918b12cfbf1973ca",
   "lastOpenFiles": [
+    "Game Design Docs/04 Lore.md",
+    "Game Design Docs/01 Executive Summary.md",
     "README.md",
     "Technical Design Docs/To Do.md",
     "Old Notes/001 Explaining Game Code/001 (TO BE OVERHAULED) Opening the game.md",
-    "Game Design Docs/01 Executive Summary.md",
     "Technical Design Docs/Workflow (how to add new things)/00 Index & The Build Loop.md",
     "Technical Design Docs/possible optimisations.md",
     "Game Design Docs/02 Gameplay.md",
@@ -216,7 +217,6 @@
     "Art/Art style 2D.md",
     "Art/Art style 3D.md",
     "CLAUDE.md",
-    "Game Design Docs/04 Lore.md",
     "Game Design Docs/05 Biomes.md",
     "attachments/A-drawing-of-a-hexagonal-lattice-on-the-torus-The-vertices-on-the-top-edge-should-be.webp",
     "attachments/Tilings-of-Flat-Tori-by-Congruent-Hexagons.pdf",
