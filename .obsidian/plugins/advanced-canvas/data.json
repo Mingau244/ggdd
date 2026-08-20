@@ -1,28 +1,31 @@
 {
   "nodeTypeOnDoubleClick": "text",
   "alignNewNodesToGrid": true,
+  "gridSize": 10,
   "defaultTextNodeDimensions": [
-    260,
+    60,
     60
   ],
   "defaultFileNodeDimensions": [
-    400,
-    400
+    480,
+    480
   ],
   "minNodeSize": 60,
   "maxNodeWidth": -1,
   "disableFontSizeRelativeToZoom": false,
   "wrapGroupLabels": true,
   "hideGroupLabels": false,
+  "boxedNodeLabels": true,
   "defaultGroupLabelSize": "1",
   "defaultGroupOpacity": "default",
   "defaultEdgeWidth": "3",
   "defaultArrowSize": "2",
   "cardNodePadding": [
-    0,
-    0
+    16,
+    8
   ],
   "connectEdgesToArrowBase": true,
+  "defaultNodeBorder": "default",
   "canvasMetadataCompatibilityEnabled": true,
   "enableSingleNodeLinks": true,
   "enableSingleNodePopupReferenceCopy": false,
@@ -46,6 +49,7 @@
   "zOrderingControlFeatureEnabled": false,
   "zOrderingControlShowOneLayerShiftOptions": false,
   "aspectRatioControlFeatureEnabled": true,
+  "nodeRotationFeatureEnabled": true,
   "commandsFeatureEnabled": true,
   "zoomToClonedNode": true,
   "cloneNodeMargin": 20,
@@ -66,7 +70,7 @@
   "autoResizeNodeEnabledByDefault": false,
   "autoResizeNodeMaxHeight": -1,
   "autoResizeNodeSnapToGrid": true,
-  "collapsibleGroupsFeatureEnabled": false,
+  "collapsibleGroupsFeatureEnabled": true,
   "collapsedGroupPreviewOnDrag": true,
   "focusModeFeatureEnabled": false,
   "canvasFilterFeatureEnabled": true,
@@ -88,6 +92,7 @@
   "canvasEncapsulationEnabled": false,
   "portalsFeatureEnabled": true,
   "showEdgesIntoDisabledPortals": true,
+  "autoOpenSingleNodePortals": true,
   "autoFileNodeEdgesFeatureEnabled": false,
   "autoFileNodeEdgesFrontmatterKey": "canvas-edges",
   "edgeHighlightEnabled": false,

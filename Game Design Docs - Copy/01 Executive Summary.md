@@ -60,15 +60,16 @@ The story will follow 3 characters who played a large role in the lead up to the
 
 
 
-Avatar (irl movie)
-Spirit (horse movie)
-Monster hunter (movie)
-Clash of titans (movie long one)
-
-Minecraft (game)
-Raymond legends (game)
-Expedition 33 (game)
-
-
-Splaty
-Outer wilds (game)
+# More inspiration dumping ground
+Past me dumped these here without organizing them. Future me has to deal with it. Thanks, past me.
+## Movies
+- Avatar: bioluminescent alien flora. Good reference for what the foreign biomes should look like.
+- Spirit (the horse movie): proof that you can tell a whole story with basically no dialogue and it still works. Relevant because the story is peripheral to the gameplay.
+- Monster Hunter: giant monsters, giant bullet patterns. Mostly here for boss fight vibes.
+- Clash of the Titans (the long one): gods and monsters stomping around a world that isn't quite ours. Fits the patchwork-merge catastrophe vibe.
+## Games
+- Minecraft: the sandbox endgame fantasy. Nobody tells you what to do and you end up building a factory anyway.
+- Rayman Legends: tight, snappy platformer feel. Movement should feel this good even though it's an MMO.
+- Expedition 33: grim-hope tone done right. The world is fucked but the people in it are still going.
+- Outer Wilds: curiosity-driven exploration without quest markers. No fetch quests, just "huh, what's over there."
+- Splaty: idk what past me meant by this. Splatoon? Splatterhouse? A typo? It stays on the list out of respect for the mystery.

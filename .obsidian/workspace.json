@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/01 Executive Summary.md",
+                "file": "Technical Design Docs/Description/00 End-to-End Timeline Flowchart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Executive Summary"
+              "title": "00 End-to-End Timeline Flowchart"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "918b12cfbf1973ca",
   "lastOpenFiles": [
-    "Game Design Docs/04 Lore.md",
     "Game Design Docs/01 Executive Summary.md",
+    "Game Design Docs/04 Lore.md",
     "README.md",
     "Technical Design Docs/To Do.md",
     "Old Notes/001 Explaining Game Code/001 (TO BE OVERHAULED) Opening the game.md",
