@@ -25,17 +25,14 @@
             "id": "252cbe91cd52137e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Game Design Docs/00.canvas",
-                "viewState": {
-                  "x": 164.69482014388495,
-                  "y": 75,
-                  "zoom": -0.6743912824672281
-                }
+                "file": "Game Design Docs/01 Executive Summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "00"
+              "icon": "lucide-file",
+              "title": "01 Executive Summary"
             }
           }
         ],
@@ -200,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +209,6 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "track-changes:Open CriticMarkup review panel": false,
       "vscode-editor:Create Code File": false
     }
   },

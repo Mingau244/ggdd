@@ -1,6 +1,8 @@
 # High Concept
 Wizards tried to implement world-wide long range teleportation gates but they fucked it up and caused 75% of the planet to be patchwork-merged with other worlds which have monsters and stuff. Kinda post apocalyptic.
 # Demographic
+
+this is a test
 ## Difficulty enjoyers
 Perma-death bullet hell rogue like mmo. Main sources of difficulty are:
 - Dodging bullets
