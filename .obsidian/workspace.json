@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "00 End-to-End Timeline Flowchart"
             }
+          },
+          {
+            "id": "252cbe91cd52137e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Game Design Docs/00.canvas",
+                "viewState": {
+                  "x": 164.69482014388495,
+                  "y": 75,
+                  "zoom": -0.6743912824672281
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "00"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,9 +216,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "918b12cfbf1973ca",
+  "active": "252cbe91cd52137e",
   "lastOpenFiles": [
+    "Game Design Docs/00.canvas",
     "Game Design Docs/01 Executive Summary.md",
+    "Game Design Docs/Untitled.canvas",
+    "Rotating_earth_(large).gif",
+    "fire-flames-transparent.gif",
+    "Technical Design Docs/Description/00 End-to-End Timeline Flowchart.md",
     "Game Design Docs/04 Lore.md",
     "README.md",
     "Technical Design Docs/To Do.md",
@@ -237,14 +260,10 @@
     "Game Design Docs/Classes/ART/crafter (dex) & (str) & (art).md",
     "Game Design Docs/Classes/ART/enchanter (wis) & (art).md",
     "Game Design Docs/Classes/SUP/Trickster (wis ≳ dex) & (sup).md",
-    "Game Design Docs/Classes/SUP/Tank (str) & (sup).md",
-    "Game Design Docs/Classes/SUP/Paladin (wis == str) & (sup ≳ dps).md",
     "Game Design Docs/Classes/Balancing details",
     "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/zflpdhs2u7lg1.jpeg",
     "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_xwfwyccwkz6a1.jpg",
     "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_sdj2v59z2gvf1.jpg",
-    "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_sd2vb5hgol951.png",
-    "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_r444nzn1e0871.png",
-    "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_0efnphg5y7fa1.png"
+    "Game Design Docs/attachments/game info rotmg/build specialisation/How to perma the +150atk on battle god seal(Info in comments) _ r_RotMG_files/profileIcon_sd2vb5hgol951.png"
   ]
 }
