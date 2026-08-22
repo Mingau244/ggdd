@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Design Docs/Description/00 End-to-End Timeline Flowchart.md",
+                "file": "Game Design Docs/Items/Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 End-to-End Timeline Flowchart"
+              "title": "Items"
             }
           }
         ]
@@ -176,9 +176,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2cbf298aec69709c",
+            "type": "leaf",
+            "state": {
+              "type": "tc-review-panel",
+              "state": {},
+              "icon": "message-square",
+              "title": "CriticMarkup review"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,6 +210,8 @@
   },
   "active": "918b12cfbf1973ca",
   "lastOpenFiles": [
+    "Technical Design Docs/Description/00 End-to-End Timeline Flowchart.md",
+    "conflict-files-obsidian-git.md",
     "Game Design Docs/01 Executive Summary.md",
     "Game Design Docs/00.canvas",
     "Game Design Docs/Art/Hollow Knight References.md",
@@ -213,7 +225,6 @@
     "Game Design Docs/Untitled.canvas",
     "Rotating_earth_(large).gif",
     "fire-flames-transparent.gif",
-    "Technical Design Docs/Description/00 End-to-End Timeline Flowchart.md",
     "README.md",
     "Technical Design Docs/To Do.md",
     "Old Notes/001 Explaining Game Code/001 (TO BE OVERHAULED) Opening the game.md",
