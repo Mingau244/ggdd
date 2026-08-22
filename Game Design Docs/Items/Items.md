@@ -5,17 +5,16 @@ Catalogue of the implemented ability items (and class weapons), mirroring the se
 **How to read the gates:** classes emerge from gear locked behind stat thresholds (doc 03). Base stats are 10 for everyone, so gates are set just above base — primary 15, secondary 12 — as placeholder values pending tuning. Stat shorthand: STR = strength, WIS = wisdom, DEX = dexterity, DPS = damage-dealer, SUP = supporter.
 
 **Shared rules:** abilities are not consumed on use — they go on cooldown (all items below have unlimited charges). The first ability slot is stronger: effect magnitudes scale by slot position (×1.5 / 1.25 / 1.1 / 1.0 / 0.9 / 0.8). Ability targets clamp to 600 range. One active mark (bleed or store) per player — recasting a mark replaces it (bleed pools dump instantly, store pools forfeit). Status effects purge on death, leaving the world, and disconnect. Hold-to-charge items self-slow (50%) and suppress firing while held; max charge 3s, then auto-release; charge scales the effect ×(0.25 + 0.75 × fraction).
-
 # DPS
 
 ## Bullet master (DEX 15, DPS 12)
 
 Weapons (toggle shot patterns with T):
 
-| Item | Patterns |
-|---|---|
+| Item         | Patterns                                                                                                  |
+| ------------ | --------------------------------------------------------------------------------------------------------- |
 | Marksman Bow | Piercing longshot (45 dmg, pierces) / point-blank spread (3×12) / quick light shot (20 dmg, fast cadence) |
-| Warbow | Heavy single shot (60 dmg) / five-arrow fan (innate `scatter_fan` toggle, can't be removed) |
+| Warbow       | Heavy single shot (60 dmg) / five-arrow fan (innate `scatter_fan` toggle, can't be removed)               |
 
 Abilities:
 
